@@ -1,1 +1,1 @@
-# blog-frontend
+# Strive Blog Template
